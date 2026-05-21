@@ -22,4 +22,4 @@ Algorithm: BFS (Breadth-First Search)
 Feel free to fork this project and submit pull requests if you have any improvements or features to add!
 
 ## Screenshot
-![Maze]()
+![Maze](Maze.png)
