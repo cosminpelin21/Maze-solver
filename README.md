@@ -3,7 +3,9 @@ This project is a graphical application designed to solve mazes using the Breadt
 
 ## Features
 Visual Maze Representation: Clear distinction between paths, walls, the start, and the end points.
+
 Pathfinding Algorithm: Implements BFS to find the shortest path from the entrance to the exit.
+
 Interactive GUI: Built with Qt for a user-friendly interface.
 
 ## Maze Representation and Visualization
@@ -16,7 +18,9 @@ The maze is represented using a grid of numerical values, where each digit corre
 
 ## Technologies Used
 Language: C++17
+
 Framework: Qt (Core, GUI, Widgets)
+
 Algorithm: BFS (Breadth-First Search)
 
 ## Contributing
