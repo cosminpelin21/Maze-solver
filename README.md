@@ -10,8 +10,9 @@ Interactive GUI: Built with Qt for a user-friendly interface.
 The maze is represented using a grid of numerical values, where each digit corresponds to a specific element of the maze and is rendered with a distinct color in the application:
 * 1 (Path): Represents walkable areas. Color: White
 * 0 (Wall): Represents impassable obstacles. Color: Black
-* 3 (Entrance): Marks the starting point of the maze. Color: Green
+* Mark the road to the exit point. Color: Green
 * 2 (Exit): Marks the destination or exit points. Color: Red
+* 3 (Entrance) Starting point. Color: Blue
 
 ## Technologies Used
 Language: C++17
